@@ -40,8 +40,7 @@ font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI", "Pi
   <img src="https://gw.alipayobjects.com/zos/rmsportal/yriUFbqOPtVniYYiikfb.png" />
 </div>
 
-## 字阶与行高
-
+##字高
 字阶和行高决定着一套字体系统的动态与秩序之美。字阶是指一系列有规律的不同尺寸的字体。行高可以理解为一个包裹在字体外面的无形的盒子。
 
 <div>
